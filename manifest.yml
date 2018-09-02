@@ -1,0 +1,5 @@
+---
+applications:
+- host: catapppawan-website
+  name: catapppawan-website
+  memory: 64M
